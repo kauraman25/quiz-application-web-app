@@ -71,6 +71,7 @@ const Devquiz = () => {
   };
   if (loading) {
     return <p>loading...</p>;
+    
   }
   return (
     <>
